@@ -14,4 +14,4 @@ When step number 5 ends, the new ball gets in color, and is added to the system'
 Note: If your new ball is in non-phisical position, which is when its on the bords or when it has a big radius such that it covers another existing ball, then a red X will show up on your ball. In this case, choose a different position, or diferrent radius. I also remind that you can delete this ball in any moment and create another one.
 
 
-To the physics lovers - unfortunately, this simulator shows the behaviour of balls with no respect to their rotation.
+To the physics lovers - unfortunately, this simulator shows the behaviour of the balls with no respect to their rotation and energy lost by friction.
